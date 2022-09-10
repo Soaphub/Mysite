@@ -37,7 +37,7 @@ I was able to:
 
 ## Author
 
-- Website - Ambadi M P (https://soaphub.github.io/Mysite/)
+- Website - [Ambadi](https://soaphub.github.io/Mysite/)
 
 ## Acknowledgments
 
